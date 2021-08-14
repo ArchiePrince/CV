@@ -1,0 +1,7 @@
+docs.emmet.io - The shortcuts to using the emmet for your editor
+fileformat.info - Complete Character List for UTF: utf-8
+unicode-table.com
+joelonsoftware.com
+w3schools.com
+mdn web docs
+thewikigame.com
